@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e5c1532f21fa7caf1d5ff7d2",
+  "owner": "fmkpps",
+  "repo": "page-cb6e4ab0e688260bb486451a",
+  "title": "世界那么大",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cb6e4ab0e688260bb486451a",
+      "a": "世界那么大",
+      "b": "2027最新官网",
+      "entity": "世界那么大",
+      "brand": "世界那么大",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fe2ceafdcb17e71cecb13c132f5957ac28782e1b97f011c0b38d7b5b64a453ee",
+      "content": {
+        "primary_entity": "世界那么大",
+        "keyword1": "世界那么大",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，面向有跨境访问需求的用户，提供按月或按年订阅的海外加速服务。基础版每月 15 元含 100GB 流量，旗舰版每月 35 元含 300GB 流量并支持 5 台设备，团队版每月 85 元含 1000GB 流量与 20 台设备。节点池按需求划分，流媒体与游戏线路分开优化，可按设备类型和流量用量选择套餐。",
+          "AI_HERO_SUBTITLE": "选对套餐，顺畅访问",
+          "AI_HERO_INTRO": "世界那么大是一款面向跨境访问场景的加速服务，提供基础版、旗舰版与团队版三种订阅方案。用户可根据每月流量和设备数量选择，搭配常见客户端导入订阅即可使用。",
+          "AI_VISUAL_TITLE": "按需选套餐更省心",
+          "AI_HIGHLIGHT_1": "三档套餐按月按年可选",
+          "AI_HIGHLIGHT_2": "旗舰版支持五台设备",
+          "AI_HIGHLIGHT_3": "团队版千GB流量二十设备",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "围绕流量、设备数量和订阅周期，三档套餐覆盖个人到团队的不同用量。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度浏览，旗舰版 300GB 适合视频与游戏，团队版 1000GB 满足多人共享。",
+          "AI_FEATURE_TITLE_2": "按设备定版本",
+          "AI_FEATURE_TEXT_2": "单人使用可选基础版 3 台设备，家庭或小团队可选旗舰版 5 台，团队版支持 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_3": "按年付更划算",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付费，年付价格相比月付累计更省，长期使用可按年订阅减少续费次数。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备使用对应的订阅客户端导入配置，手机、电脑与路由器各有常用客户端可选。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备；旗舰版 ¥35/月含 300GB、5 台设备与专线优化；团队版 ¥85/月含 1000GB、20 台设备与定制路由。按年付分别约 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，按步骤操作即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数量，在基础版、旗舰版与团队版之间选择合适档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，核对套餐支持的设备数量与线路类型。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅信息，按客户端文档完成配置后即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备、基础流媒体解锁；旗舰版每月 300GB、支持 5 台设备、全节点原生流媒体解锁并含 IPLC 专线游戏加速优化。",
+          "AI_FAQ_QUESTION_2": "一个账号可以几台设备同时用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时部分设备需要断开后再连接。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15，年付 ¥150；旗舰版月付 ¥35，年付 ¥350；团队版月付 ¥85，年付 ¥850。长期使用年付更省。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "购买后在账户中获取订阅链接或配置信息，打开对应客户端选择从链接导入或手动添加，按客户端文档提示保存并连接即可。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后可等待下一计费周期重置，也可以升级到更高档位套餐或按需加购流量包，具体以账户内显示为准。",
+          "AI_CLOSING_TITLE": "选好套餐即可出发",
+          "AI_CLOSING_TEXT": "根据流量与设备需求挑一档套餐，按客户端文档配置订阅，就能开始使用世界那么大。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--kdvt85i.org",
+    "host": "xn--kdvt85i.org"
+  },
+  "file_hashes": {
+    "index.html": "3a450f36ba7545a85c4df41d6f210fb9471b1926851d2b7b5ac9ad531650fdcb",
+    "sitemap.xml": "586dfefede5214183b9dc54bbc1f8e7777b321d31d31f83bf70c8f475d6f6f7f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a73ba98eed8dede1ad53b9405f644e556a2e664dbd32c951467440674a018496",
+    "robots.txt": "ff9838f8f300725399d320ce925a4b75da583e58688f5fda8856fa97db151ae6",
+    "0e28d09e60222d5ca0ee93f8c8664022.txt": "dba39a6b8d20c0d80ab0555aaa829e20b7db508444ac19079a741de61ccb96f6"
+  },
+  "revision": "bc30b1349e751ba49b9d977b9c89da2809765ff00df7338f4bc3ad3f357f2c4c"
+}
